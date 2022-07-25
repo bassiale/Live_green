@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715107279907",
+    "project_id": "livegreen-66455",
+    "storage_bucket": "livegreen-66455.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715107279907:android:81abdaa23fa318529afd96",
+        "android_client_info": {
+          "package_name": "com.example.livegreen_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715107279907-ncau02oksm37cjcjkulnqvr3mhc0mm2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtfTqnoS_RfBjaeCcuqDu215x0ziF9E6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715107279907-ncau02oksm37cjcjkulnqvr3mhc0mm2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
